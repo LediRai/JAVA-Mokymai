@@ -45,6 +45,7 @@ public class Krautuve {
         if (!radauLygini){ // ! yra nelygybe
             System.out.println("nera lyginio skaiciaus");
         }
+        //
 //            }else {
 //                System.out.println("nera lyginiu skaiciu ");
 //            }
